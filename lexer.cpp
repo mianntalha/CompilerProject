@@ -28,7 +28,7 @@ bool checkKeyword(const string& value)
     {
         if (value == keyword)
             return true;
-    }le
+    }
 
     return false;
 }
